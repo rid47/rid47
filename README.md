@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ridwan
-#### Python Developer
- I have an educational background in EEE. I am currently working as a Software Engineer. My primary responsibility is developing different RPA solutions for my employer.  
+#### Like to think myself as a Python Developer
+ I have an educational background in EEE. I am currently working as a Software Engineer. My primary responsibility is developing different RPA solutions for my employer. I love coding and trying to improve my coding skills to contribute effeciently in my team.  
 
 Skills: PYTHON/SQL/HTML/CSS
 
