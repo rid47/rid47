@@ -5,9 +5,9 @@ I have an educational background in EEE. I am currently working as a Software En
 
 Skills: PYTHON/SQL/HTML/CSS
 
-- 🔭 I’m currently working on Tabular PDF Extractor 
-- 🌱 I’m currently learning SQL 
-- 👯 I’m looking to collaborate on Python based project 
+- 🔭 I build RPA solutions using Python
+- 🌱 I’m currently learning data science fundamentals
+- 👯 I’m looking to collaborate on Python-based projects 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rid47)  
