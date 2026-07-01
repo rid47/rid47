@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Ridwan
 #### Python Developer
 
-I have an educational background in EEE. I am currently working as a Software Engineer. My primary responsibility is developing and maintaining different RPA solutions for my employer. I find interest in programming and software development. Currently trying to gain fundamentals of computer science and software development to be a proper Software Engineer.  
+I have an educational background in EEE. I am currently working as a Software Engineer. My primary responsibility is developing and maintaining different RPA solutions for my employer. I find interest in programming and building software. 
 
-Skills: PYTHON/SQL/HTML/CSS
+Skills: PYTHON/SQL
 
 - 🔭 I build RPA solutions using Python
-- 🌱 I’m currently learning data science fundamentals
+- 🌱 I’m currently learning machine learning fundamentals
 - 👯 I’m looking to collaborate on Python-based projects 
 
 
