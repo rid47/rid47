@@ -1,26 +1,71 @@
-### Hi there 👋, my name is Ridwan
-#### Python Developer
+# Hi there 👋, I'm Ridwan
 
-I have an educational background in EEE. I am currently working as a Software Engineer. My primary responsibility is developing and maintaining different RPA solutions for my employer. I find interest in programming and building software. 
+## Senior Backend/Automation Engineer building AI-powered automation systems
 
-Skills: PYTHON/SQL
+I am a Senior Software Engineer specializing in Python backend development, intelligent automation, and Robotic Process Automation (RPA). I design and build scalable automation systems that integrate with databases, web applications, enterprise APIs, and AI-powered workflows to eliminate repetitive business processes.
 
-- 🔭 I build RPA solutions using Python
-- 🌱 I’m currently learning machine learning fundamentals
-- 👯 I’m looking to collaborate on Python-based projects 
+Over the past several years, I have developed and maintained production-grade automation solutions for financial and enterprise applications, working extensively with Python, SQL, API integrations, browser automation, data processing, and backend services. I enjoy solving complex engineering problems by building reliable, maintainable, and efficient software.
 
+### 🛠 Tech Stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rid47)  
+**Languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rid47)](https://github.com/anuraghazra/github-readme-stats)
+* Python
+* SQL
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rid47&show_icons=true&count_private=true)  
+**Backend**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rid47)  
+* FastAPI
+* REST APIs
+* Flask
+* Django
 
-![GitHub metrics](https://metrics.lecoq.io/rid47)  
+**Automation**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rid47)  
+* Robotic Process Automation (RPA)
+* Playwright
+* Selenium
+* Web Scraping
+* Process Automation
 
+**Databases**
 
-![Profile views](https://gpvc.arturio.dev/rid47)  
+* SQL Server
+* MySQL
+
+### 🚀 What I Do
+
+* 🤖 Build AI-powered automation systems and intelligent workflows
+* ⚙️ Develop scalable Python backend services and REST APIs
+* 🔄 Design enterprise-grade RPA solutions
+* 🌐 Build browser automation and web scraping systems
+* 🗄️ Optimize database-driven applications using SQL
+* 🔗 Integrate enterprise systems through APIs and automation
+
+### 🌱 Currently Exploring
+
+* Applied AI and Large Language Models (LLMs)
+* AI agents and autonomous workflows
+* Machine Learning for intelligent automation
+* Cloud-native backend architecture
+
+### 👯 Open to Collaborate On
+
+* Python backend projects
+* AI automation platforms
+* RPA frameworks
+* Open-source Python tools
+* FastAPI-based applications
+
+### 💡 Interests
+
+* Backend Engineering
+* Artificial Intelligence
+* Intelligent Automation
+* System Design
+* Developer Tools
+* Open Source
+
+---
+
+> *Building software that automates work, scales reliably, and delivers measurable business value.*
